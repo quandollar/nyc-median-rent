@@ -6,13 +6,11 @@ import streamlit as st
 import altair as alt
 
 # page title and description
-st.title("COVID's Effect on NYC Rent")
+st.title("NYC Median Rent by Borough")
 st.markdown(
     """
-This app pulls from StreetEasy’s public database and produces line charts of its NYC's median rent stats data. 
-Visualizations are categorized by NYC borough, each with a filter for areas (except for Staten Island).
-- Built with `Python` using `requests`, `zipfile`, `io`, `pandas`, `altair`, and `streamlit`
-- App built by [Quan Nguyen](https://www.linkedin.com/in/nguyenhq/)
+- Source: StreetEasy’s public database
+- Built with: `Python` using `requests`, `zipfile`, `io`, `pandas`, `altair`, and `streamlit`
 """
 )
 st.header("")

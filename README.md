@@ -18,5 +18,5 @@ View the app live [here](https://share.streamlit.io/quandollar/nyc_rent_app/main
 Visualizations are categorized by NYC borough: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island. Each borough can be filtered by sub-area, except for Staten Island.
 ![demo](https://github.com/quandollar/nyc_rent_app/blob/main/demo%20assets/demo.gif)
 
-For example, a quick glance shows trends across areas in Manhattan and Brooklyn to follow a similar behavior:
+A quick glance shows trends across areas in Manhattan and Brooklyn following a similar behavior. Take downtown Manhattan for example:
 ![analysis](https://github.com/quandollar/nyc_rent_app/blob/main/demo%20assets/analysis.png)
